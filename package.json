@@ -1,0 +1,27 @@
+{
+  "name": "firstime",
+  "version": "1.0.0",
+  "description": "A school project made by two students from EEMI ❤️",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fractal": "cd styleguide && fractal start --sync"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MargotRasamy/firstime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@frctl/fractal": "^1.2.1",
+    "parcel": "^1.12.4",
+    "sass": "^1.26.3"
+  },
+  "bugs": {
+    "url": "https://github.com/MargotRasamy/firstime/issues"
+  },
+  "homepage": "https://github.com/MargotRasamy/firstime#readme"
+}
