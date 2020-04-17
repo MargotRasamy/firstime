@@ -1,7 +1,17 @@
 .a-button {
-    border-radius: 20px;
+    display: inline-block;
+    border-radius: var(--borderRadiusLarge);
     background-color: var(--colorYellow);
-    color: var(--colorTextWhite);
+    padding: var(--spaceS) var(--spaceXL);
+    box-shadow: var(--boxShadow);
+}
+
+.a-button--nav {
+    background-color: var(--colorGreen);
     padding: var(--spaceS) var(--spaceL);
-    font-size: var(--fontSizeMain);
+}
+
+.a-button--footer {
+    background-color: var(--colorRedLight);
+    padding: var(--spaceS) var(--spaceL);
 }

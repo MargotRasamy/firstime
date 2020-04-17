@@ -1,11 +1,11 @@
 .a-title {
   font-size: var(--fontSizeH2);
-  font-family: var(--fontFamilyTitle);
-  color: var(--colorRed)
+  font-family: var(--fontFamilyMain);
+  color: var(--colorRed);
+  font-weight: bold;
 }
 
 .a-title--level1 {
-  font-size: var(--fontSizeH6);
-  font-family: var(--fontFamilyMain);
-  font-weight: bold;
+  font-size: var(--fontSizeH1);
+  font-family: var(--fontFamilyTitle);
 }

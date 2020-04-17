@@ -1,0 +1,21 @@
+.a-paragraph {
+    font-size: var(--fontSizeMain);
+    color: var(--colorTextMain);
+    font-family: var(--fontFamilyMain);
+}
+
+.a-paragraph--underline {
+    text-decoration: underline;
+}
+
+.a-paragraph--bold {
+    font-weight: bold;
+}
+
+.a-paragraph--bold-reversed {
+    color: var(--colorTextWhite);
+}
+
+.a-paragraph--small {
+    font-size: var(--fontSizeSmall);
+}
