@@ -32,7 +32,7 @@
   --fontSizeSmall: 12px;
 
   //MOBILE FONT SIZE
-  @include small {
+  /*@include small {
     --fontSizeH1: 48px;
     --fontSizeH2: 36px;
     --fontSizeH3: 30px;
@@ -42,7 +42,7 @@
     --fontSizeMain: 16px;
     --fontSizeSubtitle: 14px;
     --fontSizeSmall: 12px;
-  }
+  }*/
 
   --lineHeightMain: 1.5;
   --lineHeightLarge: 2;

@@ -1,21 +1,11 @@
 .a-title {
-  color: var(--colorPrimary);
+  font-size: var(--fontSizeH2);
   font-family: var(--fontFamilyTitle);
+  color: var(--colorRed)
 }
 
 .a-title--level1 {
-  font-size: var(--fontSizeXXL);
-  text-transform: uppercase;
-}
-
-.a-title--level2 {
-  font-size: var(--fontSizeXL);
-}
-
-.a-title--level3 {
-  font-size: var(--fontSizeL);
-}
-
-.a-title--reversed {
-  color: var(--colorTextReversed);
+  font-size: var(--fontSizeH6);
+  font-family: var(--fontFamilyMain);
+  font-weight: bold;
 }
