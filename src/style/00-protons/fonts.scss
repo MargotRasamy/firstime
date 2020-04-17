@@ -1,33 +1,49 @@
 @mixin font($font-family, $file-path, $font-weight, $font-style) {
   @font-face {
     font-family: $font-family;
-    src: url('#{$file-path}.woff2') format('woff2'),
-      url('#{$file-path}.woff') format('woff');
+    src: url('#{$file-path}');
     font-weight: $font-weight;
     font-style: $font-style;
   }
 }
 
-@include font('Oswald', '../assets/fonts/Oswald/Oswald-Regular', 400, normal);
-@include font('Oswald', '../assets/fonts/Oswald/Oswald-Light', 300, normal);
-@include font('Roboto', '../assets/fonts/Roboto/Roboto-Regular', 400, normal);
-@include font('Roboto', '../assets/fonts/Roboto/Roboto-Bold', 900, normal);
-@include font('Roboto', '../assets/fonts/Roboto/Roboto-Italic', 400, italic);
+@include font('DancingScript', '../assets/fonts/DancingScript/DancingScript-Bold.ttf', bold, normal);
+@include font('GillSans', '../assets/fonts/GillSans/GillSans-Bold.otf', bold, normal);
+@include font('GillSans', '../assets/fonts/GillSans/GillSans-Medium.otf', medium, normal);
+@include font('GillSans', '../assets/fonts/GillSans/GillSans.otf', normal, normal);
+@include font('GillSans', '../assets/fonts/GillSans/GillSans-Light.otf', lighter, normal);
+@include font('ITCSlimbach', '../assets/fonts/ITCSlimbach/ITCSlimbach-Bold.otf', bold, normal);
+@include font('ITCSlimbach', '../assets/fonts/ITCSlimbach/ITCSlimbach-Book.otf', normal, normal);
+@include font('ITCSlimbach', '../assets/fonts/ITCSlimbach/ITCSlimbach-BookItalic.otf', lighter, italic);
 
 :root {
-  --fontFamilyTitle: Oswald, sans-serif;
-  --fontFamilyMain: Roboto, sans-serif;
-  --fontFamilyCode: monospace;
+  --fontFamilyTitle: DancingScript, sans-serif;
+  --fontFamilyMain: GillSans, sans-serif;
+  --fontFamilyArticles: ITCSlimbach, serif;
 
-  --fontSizeXXL: 80px;
-  --fontSizeXL: 32px;
-  --fontSizeL: 24px;
-  --fontSizeM: 18px;
-  --fontSizeS: 14px;
+  --fontSizeH1: 96px;
+  --fontSizeH2: 48px;
+  --fontSizeH3: 36px;
+  --fontSizeH4: 24px;
+  --fontSizeH5: 21px;
+  --fontSizeH6: 18px;
+  --fontSizeMain: 16px;
+  --fontSizeSubtitle: 14px;
+  --fontSizeSmall: 12px;
 
-  --fontWeightBold: 900;
-  --fontWeightThin: 300;
-
+  //MOBILE FONT SIZE
+  @include small{
+    --fontSizeH1: 48px;
+    --fontSizeH2: 36px;
+    --fontSizeH3: 30px;
+    --fontSizeH4: 28px;
+    --fontSizeH5: 24px;
+    --fontSizeH6: 21px;
+    --fontSizeMain: 16px;
+    --fontSizeSubtitle: 14px;
+    --fontSizeSmall: 12px;
+  }
+  
   --lineHeightMain: 1.5;
   --lineHeightLarge: 2;
 }
