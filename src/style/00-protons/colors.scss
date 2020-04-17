@@ -1,27 +1,34 @@
 :root {
+  --colorTextMain: #2D3436;
+  --colorTextMainLight: #B2BEC3;
+  --colorTextSecondary: #636E72;
+  --colorTextSecondaryLight: #DFE6E9;
+  --colorTextWhite: #fafafa;
+
   --colorRed: #ed0661;
   --colorRedLight: #FF7675;
 
   --colorOrange: #E17055;
   --colorOrangeLight: #FAB1A0;
 
-  --colorSuccess: #38c138;
-  --colorSuccessLight: #c8f7b9;
-  --colorSuccessDark: #076b07;
+  --colorYellow: #FDCB6E;
+  --colorYellowLight: #FFEAA7;
 
-  --colorTextMain: #222222;
-  --colorTextSecondary: #666666;
-  --colorTextReversed: #ffffff;
+  --colorPink: #E84393;
+  --colorPinkLight: #FD79A8;
 
-  --colorInfo: #dbf9eb;
-  --colorWarning: #f9e9db;
+  --colorPurple: #6C5CE7;
+  --colorPurpleLight: #A29BFE;
 
-  --colorCode: #006b89;
-  --colorCodeLight: #c8f0fd;
+  --colorBlue: #0984E3;
+  --colorBlueLight: #74B9FF;
 
-  --colorQuestion: #e7d3f5;
+  --colorCyan: #00CEC9;
+  --colorCyanLight: #81ECEC;
 
-  --colorInputBorder: #666666;
+  --colorGreen: #00B894;
+  --colorGreenLight: #55EFC4;
+
 }
 
 .u-red {
