@@ -23,3 +23,11 @@
 
   --colorInputBorder: #666666;
 }
+
+.u-red {
+  & a {
+    color: var(--colorRed);
+  }
+
+  fill: var(--colorRed);
+}
