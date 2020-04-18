@@ -1,0 +1,8 @@
+.m-mainTitle {
+    display: flex;
+    align-items: baseline;
+
+    &>*+* {
+        margin-left: var(--spaceXL);
+    }
+}

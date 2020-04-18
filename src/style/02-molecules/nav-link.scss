@@ -1,0 +1,27 @@
+.m-navLink {
+    display: flex;
+    align-items: center;
+
+    &>* {
+        margin: var(--spaceXS);
+    }
+}
+
+.m-navLink--list {
+    display: block;
+
+    &>* {
+        margin: var(--spaceM) var(--spaceL);
+    }
+
+    @include medium {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.m-navLink--list-reversed {
+    .m-navLink>* {
+        color: var(--colorWhite);
+    }
+}

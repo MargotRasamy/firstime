@@ -1,6 +1,6 @@
 .a-paragraph {
     font-size: var(--fontSizeMain);
-    color: var(--colorTextMain);
+    color: var(--colorMain);
     font-family: var(--fontFamilyMain);
 }
 
@@ -13,7 +13,7 @@
 }
 
 .a-paragraph--bold-reversed {
-    color: var(--colorTextWhite);
+    color: var(--colorWhite);
 }
 
 .a-paragraph--small {
