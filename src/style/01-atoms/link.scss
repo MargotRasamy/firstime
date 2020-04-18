@@ -4,7 +4,7 @@
     font-family: var(--fontFamilyMain);
 }
 
-.m-iconLink {
+.a-link--icon {
     transition: transform var(--transitionDuration),
       opacity var(--transitionDuration);
     will-change: transform, opacity;
@@ -12,6 +12,15 @@
     &:hover {
       transform: scale(1.2);
       opacity: 0.7;
+    }
+}
+
+.a-link--nav-item {
+    display: flex;
+    align-items: center;
+
+    &>* {
+        margin: var(--spaceXS);
     }
 }
 

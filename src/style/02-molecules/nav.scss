@@ -1,13 +1,5 @@
-.m-navLink {
-    display: flex;
-    align-items: center;
 
-    &>* {
-        margin: var(--spaceXS);
-    }
-}
-
-.m-navLink--list {
+.m-nav-list {
     display: block;
 
     &>* {
@@ -20,8 +12,8 @@
     }
 }
 
-.m-navLink--list-reversed {
-    .m-navLink>* {
+.m-nav-list--reversed {
+    &>*>* {
         color: var(--colorWhite);
     }
 }
