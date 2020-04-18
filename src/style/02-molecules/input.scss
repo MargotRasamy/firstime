@@ -1,0 +1,51 @@
+.m-input {
+    display : flex;
+    flex-direction: column;
+    //label
+    &>label{
+        font-weight: var(--fontWeightMedium);
+        margin-bottom: var(--spaceXS);
+        font-size: var(--fontSizeSubtitle);
+    }
+    //input
+    & input{
+        font-weight: var(--fontWeightMedium);
+        border-radius: var(--borderRadiusSmall);
+        box-sizing: border-box;
+        border: none;
+        box-shadow: var(--boxShadow);
+        height:40px;
+        width: 100%;
+        padding-left:var(--spaceM);
+        font-size: var(--fontSizeMain);
+    }
+    & input:focus {
+		border: 1px solid var(--colorMainLight);
+		outline: none;
+    }
+    //div 
+
+    & div:first-of-type {
+        position: relative;
+    }
+    //button
+    & button{
+       cursor: pointer;
+       background-color: transparent;
+       border: none;
+       width:18px;
+       padding:10px;
+       height:18px;
+       position: absolute;
+       right: var(--spaceM);
+    }
+    & button:active, & button:focus{
+        outline: none; 
+        border: none;
+    }
+    //label and input
+    & label, & input{
+        font-family: var(--fontFamilyMain);
+        
+    }
+}

@@ -10,3 +10,31 @@
   font-family: var(--fontFamilyTitle);
   color: var(--colorRed);
 }
+
+.a-title--level2-medium {
+  font-size: var(--fontSizeH6);
+  font-family: var(--fontFamilyMain);
+  font-weight: medium;
+  color: var(--colorMain);
+}
+
+.a-title--level2-medium-reversed {
+  font-size: var(--fontSizeH6);
+  font-family: var(--fontFamilyMain);
+  font-weight: medium;
+  color: var(--colorWhite);
+}
+
+.a-title--level2-bold {
+  font-size: var(--fontSizeH6);
+  font-family: var(--fontFamilyMain);
+  font-weight: bold;
+  color: var(--colorMain);
+}
+
+.a-title--level2-bold-reversed {
+  font-size: var(--fontSizeH6);
+  font-family: var(--fontFamilyMain);
+  font-weight: bold;
+  color: var(--colorWhite);
+}

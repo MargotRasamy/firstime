@@ -1,0 +1,36 @@
+.m-select{
+  display: flex;
+  flex-direction: column;
+  font-family: var(--fontFamilyMain);
+
+  //label
+  &>label{
+    font-weight: var(--fontWeightMedium);
+    margin-bottom: var(--spaceXS);
+    font-size: var(--fontSizeSubtitle);
+  }
+  
+  &>select {
+      outline: 0;
+      border:none;
+      box-shadow: var(--boxShadow);
+      background-image: none;
+      padding:var(--spaceM);
+      border-radius: var(--borderRadiusSmall);
+  }
+
+  &>option{
+      outline: 0;
+      border:none;
+      box-shadow: var(--boxShadow);
+      padding:var(--spaceM);  
+  }
+
+  &>option:hover{
+    background-color: var(--colorSecondary);
+  }
+
+}
+
+
+  

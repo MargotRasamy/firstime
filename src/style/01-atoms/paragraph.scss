@@ -2,10 +2,16 @@
     font-size: var(--fontSizeMain);
     color: var(--colorMain);
     font-family: var(--fontFamilyMain);
+    line-height: var(--lineHeightMain);
 }
 
 .a-paragraph--underline {
     text-decoration: underline;
+}
+
+.a-paragraph--medium {
+    font-weight: medium;
+    font-size: var(--fontSizeH6);
 }
 
 .a-paragraph--bold {
