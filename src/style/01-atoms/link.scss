@@ -3,3 +3,16 @@
     font-size: var(--fontSizeMain);
     font-family: var(--fontFamilyMain);
 }
+
+.m-iconLink {
+    transition: transform var(--transitionDuration),
+      opacity var(--transitionDuration);
+    will-change: transform, opacity;
+  
+    &:hover {
+      transform: scale(1.2);
+      opacity: 0.7;
+    }
+}
+
+
