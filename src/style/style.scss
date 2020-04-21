@@ -11,7 +11,6 @@
 @import '01-atoms/icon.scss';
 @import '01-atoms/image.scss';
 @import '01-atoms/link.scss';
-@import '01-atoms/number.scss';
 @import '01-atoms/paragraph.scss';
 @import '01-atoms/title.scss';
 
@@ -23,6 +22,8 @@
 @import '02-molecules/input--footer.scss';
 @import '02-molecules/select.scss';
 @import '02-molecules/article.scss';
+@import '02-molecules/pagination.scss';
+@import '02-molecules/cta.scss';
 
 
 @import '04-layouts/main.scss';
