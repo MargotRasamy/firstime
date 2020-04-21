@@ -1,26 +1,37 @@
 .o-header {
-  background-color: var(--colorPrimary);
-  padding: var(--spaceM) 0;
+  display: flex;
+  justify-content: space-between;
+
 }
 
-.o-header--chapter {
-  display: flex;
-  flex-direction: column;
+.o-header--small {
+  align-self: center;
 
-  & > * + * {
-    margin-top: var(--spaceM);
+  @include large {
+    display: none;
+  }
+}
+
+.o-header--large {
+  align-self: center;
+
+  @include underLarge {
+    display: none;
   }
 
-  @include medium {
-    flex-direction: row;
-    align-items: flex-end;
+}
 
-    & > * + * {
-      margin-left: var(--spaceM);
-    }
+.o-header--mobile-small {
+  display: flex;
 
-    & > :last-child {
-      margin-left: auto;
-    }
+  &>:first-child {
+    align-self: start;
+    margin-top: var(--spaceML);
+
+
+  }
+
+  @include large {
+    display: none;
   }
 }

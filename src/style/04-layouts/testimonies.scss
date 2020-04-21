@@ -1,0 +1,46 @@
+.l-testimonies {
+
+  &>.l-testimonies__main {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+  }
+
+  & .l-testimonies__research {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  & .l-testimonies__research>:last-child {
+    width: var(--articleItemWidth);
+    height: var(--spaceM);
+    visibility: hidden;
+  }
+
+  & .l-testimonies__research>* {
+
+    width: var(--articleItemWidth);
+
+  }
+
+}
+
+
+//Margin/padding per section
+
+.l-testimonies {
+  & .o-header {
+    margin: 6vw 6vw 0;
+  }
+
+  & .l-testimonies__main {
+    margin: 6vw 12vw;
+  }
+
+  & .o-footer {
+    padding: 2vw 6vw;
+  }
+}

@@ -1,12 +1,11 @@
-
 .m-nav-list {
     display: block;
 
     &>* {
-        margin: var(--spaceM) var(--spaceL);
+        margin: 0 var(--spaceS);
     }
 
-    @include medium {
+    @include large {
         display: flex;
         flex-wrap: wrap;
     }
