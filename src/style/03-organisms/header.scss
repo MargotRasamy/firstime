@@ -2,6 +2,11 @@
   display: flex;
   justify-content: space-between;
 
+  &>.a-logo {
+    @include medium {
+      display: none;
+    }
+  }
 }
 
 .o-header--small {
@@ -27,8 +32,6 @@
   &>:first-child {
     align-self: start;
     margin-top: var(--spaceML);
-
-
   }
 
   @include large {

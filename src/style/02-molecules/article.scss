@@ -25,6 +25,7 @@
         &>.thumbnail>.a-image {
             border-radius: var(--borderRadiusSmall) var(--borderRadiusSmall) 0 0;
             object-fit: cover;
+            object-position: center bottom;
         }
 
         &>h6:last-of-type {

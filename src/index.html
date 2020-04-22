@@ -1,11 +1,279 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Document</title>
-    <link rel="stylesheet" href="style/style.scss" />
-  </head>
-  <body></body>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Firstime</title>
+  <link rel="stylesheet" href="style/style.scss" />
+</head>
+
+<body>
+
+  <main class="l-testimonies">
+    <header class="o-header">
+      <!--Lien vers la homepage-->
+      <a href="#" class="a-logo--desktop">
+        <img class="a-image" src="./assets/images/logo.png" alt="Firstime Logo">
+      </a>
+      <!--Menu Mobile-->
+      <a href="#" class="a-logo">
+        <img class="a-image" src="./assets/images/Logo-1.png" alt="The alternative text">
+      </a>
+
+      <div class="o-header--small">
+        <a href="#" class="a-link m-menuIcon">
+          <p class="a-paragraph a-paragraph--bold">Menu</p>
+          <img class="a-icon" src="./assets/images/icons/menu.svg" alt="icon open burger menu">
+        </a>
+      </div>
+
+      <div class="o-header--large">
+        <div class="m-menuDesktop">
+          <div class="a-link--nav-item m-nav-list">
+            <a class="a-link a-link--nav-item" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/direct.svg" alt="icon direct">
+              <p class="a-paragraph a-paragraph--short">Direct</p>
+            </a>
+            <a class="a-link a-link--nav-item" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/Video.svg" alt="icon replay">
+              <p class="a-paragraph a-paragraph--short">Replay</p>
+            </a>
+            <a class="a-link a-link--nav-item" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/testimony.svg" alt="icon testimonies">
+              <p class="a-paragraph a-paragraph--short">Témoignages</p>
+            </a>
+            <a class="a-link a-link--nav-item" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/location.svg" alt="icon adresses">
+              <p class="a-paragraph a-paragraph--short">Trouver de l’aide</p>
+            </a>
+            <a class="a-link a-link--nav-item" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/search.svg" alt="icon research">
+              <p class="a-paragraph a-paragraph--short">Recherche</p>
+            </a>
+          </div>
+          <a class="a-link a-button a-button--nav" href="#">
+            <p class="a-paragraph a-paragraph--bold a-paragraph--bold-reversed">Connexion</p>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <div class="l-testimonies__main">
+      <section class="m-main-title">
+        <a class="a-link--icon" href="#" target="">
+          <img class="a-icon" src="./assets/images/icons/back.svg" alt="icon back arrow">
+        </a>
+        <h1 class="a-title--level1">Témoignages</h1>
+      </section>
+      <section class="o-intro">
+        <article>
+          <section class="m-intro-paragraph">
+            <h2 class="a-title">Témoignages</h2>
+            <p class="a-paragraph">
+              Lisez les nombreux témoignages de nos internautes, partagez vos propres histoires en toute anonymat et
+              échangez sur de nombreuses thématiques.
+            </p>
+          </section>
+          <a class="a-link a-button" href="#">
+            <p class="a-paragraph a-paragraph--bold a-paragraph--bold-reversed">Envoyer un témoignage</p>
+          </a>
+
+        </article>
+
+        <article>
+          <img class="a-image" src="./assets/images/illustration.svg" alt="flat illustration">
+        </article>
+      </section> <span>
+        <form class="m-input" action="" method="">
+          <label for="search-input">Recherche</label>
+          <div>
+            <input type="text" id="search-input" name="search-input" placeholder="Rechercher...">
+            <button type="submit"> <img class="a-icon" src="./assets/images/icons/search-grey.svg" alt="icon-name">
+            </button>
+          </div>
+
+        </form>
+      </span>
+      <span>
+        <form class="m-select" action="" method="">
+          <label for="filter-input">Filtrer</label>
+          <div class="selectbox " data-option="">
+            <div class="selectbox__displayWord">
+              Les plus récents
+            </div>
+            <div class="option-container">
+              <div class="option-container__option">
+                <input type="radio" class="option__radio" id="newest" name="category">
+                <label class="option__label" for="newest" data-value="category">Les plus récents</label>
+              </div>
+              <div class="option-container__option">
+                <input type="radio" class="option__radio" id="most-commented" name="category">
+                <label class="option__label" for="most-commented" data-value="category">Les plus commentés</label>
+              </div>
+              <div class="option-container__option">
+                <input type="radio" class="option__radio" id="oldest" name="category">
+                <label class="option__label" for="oldest" data-value="category">Les plus anciens</label>
+              </div>
+            </div>
+          </div>
+        </form>
+      </span>
+      <section class="o-articles-part">
+        <div class="o-articles-part__content">
+          <article class="m-article">
+            <a href="#" class="m-article-link">
+              <figure class="thumbnail">
+                <img class="a-image" src="./assets/images/1.svg" alt="The alternative text">
+
+              </figure>
+              <h6 class="a-title--level2-medium">Témoignage anonyme - « Je n’ai pas envie qu’il pense que je suis
+                coincée. »</h6>
+            </a>
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/like.svg" alt="icon-name">
+            </a>
+          </article>
+          <article class="m-article">
+            <a href="#" class="m-article-link">
+              <figure class="thumbnail">
+                <img class="a-image" src="./assets/images/2.svg" alt="The alternative text">
+
+              </figure>
+              <h6 class="a-title--level2-medium">Interview avec George, gynécologue : « Mes patientes me font part de
+                leurs craintes »</h6>
+            </a>
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/like-empty.svg" alt="icon-name">
+            </a>
+          </article>
+          <article class="m-article m-article--video">
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/play-button.svg" alt="icon play button">
+            </a>
+            <a href="#" class="m-article-link">
+              <figure class="thumbnail">
+                <img class="a-image" src="./assets/images/picture2.jpg" alt="The alternative text">
+
+              </figure>
+              <h6 class="a-title--level2-medium">Interview inédite avec Stella, sexologue bisexuelle et maman de 2
+                enfants !</h6>
+            </a>
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/like.svg" alt="icon-name">
+            </a>
+          </article>
+          <article class="m-article m-article--video">
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/play-button.svg" alt="icon play button">
+            </a>
+            <a href="#" class="m-article-link">
+              <figure class="thumbnail">
+                <img class="a-image" src="./assets/images/picture1.jpg" alt="The alternative text">
+
+              </figure>
+              <h6 class="a-title--level2-medium">FirstComingOut - Mes premières expériences après mon coming out.</h6>
+            </a>
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/like-empty.svg" alt="icon-name">
+            </a>
+          </article>
+          <article class="m-article">
+            <a href="#" class="m-article-link">
+              <figure class="thumbnail">
+                <img class="a-image" src="./assets/images/4.svg" alt="The alternative text">
+
+              </figure>
+              <h6 class="a-title--level2-medium">Témoignage anonyme - « Je suis un homme et j'ai été violé. Je ne sais
+                pas comment réagir. »</h6>
+            </a>
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/like.svg" alt="icon-name">
+            </a>
+          </article>
+          <article class="m-article">
+            <a href="#" class="m-article-link">
+              <figure class="thumbnail">
+                <img class="a-image" src="./assets/images/3.svg" alt="flat illustration">
+              </figure>
+              <h6 class="a-title--level2-medium">Témoignage anonyme - « Toujours vierge à 30 ans, je n’arrive pas à
+                m’ouvrir aux autres. »</h6>
+            </a>
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/like-empty.svg" alt="icon like">
+            </a>
+          </article>
+        </div>
+        <div class="o-articles-part__pagination">
+          <nav class="m-pagination">
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/arrow-left.svg" alt="icon arrow left">
+            </a>
+            <ul>
+              <a href="#" class="a-link u-main">1</a>
+              <a href="#" class="a-link u-red">2</a>
+              <a href="#" class="a-link u-main">. . .</a>
+              <a href="#" class="a-link u-main">8</a>
+              <a href="#" class="a-link u-main">9</a>
+            </ul>
+            <a class="a-link--icon" href="#" target="">
+              <img class="a-icon" src="./assets/images/icons/arrow-right.svg" alt="icon arrow right">
+            </a>
+          </nav>
+        </div>
+      </section>
+      <section class="m-cta">
+        <p class="a-paragraph">
+          Besoin d'aide ? Vous souhaitez en parler ? Retrouvez nos adresses et contacts de professionnels de confiance.
+        </p>
+        <a class="a-link a-button" href="#">
+          <p class="a-paragraph a-paragraph--bold a-paragraph--bold-reversed">Trouver des contacts</p>
+        </a>
+
+      </section>
+    </div>
+
+    <footer class="o-footer">
+      <hr class="a-horizontalRule">
+      <div class="o-footer__content">
+        <!--Lien vers la homepage-->
+        <div class="o-footer__logo">
+          <a href="#" class="a-logo">
+            <img class="a-image" src="./assets/images/logo-white.png" alt="Firstime logo">
+          </a>
+        </div>
+        <div class="m-newsletter">
+          <form class="m-input m-input--footer" action="" method="">
+            <label for="search-input">Recevez par mail les premiers témoignages</label>
+            <div>
+              <input type="text" id="search-input" name="search-input" placeholder="Votre adresse e-mail">
+              <button type="submit"> <img class="a-icon" src="./assets/images/icons/email.svg" alt="email icon">
+              </button>
+            </div>
+          </form>
+          <a class="a-link a-button a-button--footer" href="#">
+            <p class="a-paragraph a-paragraph--bold a-paragraph--bold-reversed">S'inscrire</p>
+          </a>
+        </div>
+        <div class="m-menuFooter">
+          <a href="#" class="a-link u-red">Direct</a>
+          <a href="#" class="a-link u-orange">Replay</a>
+          <a href="#" class="a-link u-yellow">Témoignages</a>
+          <a href="#" class="a-link u-pink">Adresses et contacts utiles</a>
+        </div>
+        <div class="m-menuFooter m-menuFooter--about">
+          <p class="a-paragraph a-paragraph--bold a-paragraph--bold-reversed">À propos</p>
+          <a href="#" class="a-link u-blue">Nous contacter</a>
+          <a href="#" class="a-link u-cyan">Mentions légales</a>
+          <a href="#" class="a-link u-green">Confidentialités</a>
+        </div>
+      </div>
+      <p class="a-paragraph a-paragraph--small">© 2020 Copyright. - Firstime. Tous droits réservés.</p>
+    </footer>
+
+  </main>
+
+</body>
+
 </html>
