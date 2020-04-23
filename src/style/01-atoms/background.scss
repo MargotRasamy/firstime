@@ -1,15 +1,14 @@
 .a-background{
     background-image: url('../../src/assets/images/background1.svg'), url('../../src/assets/images/background2.svg');
     background-repeat: no-repeat, no-repeat;
-    padding: var(--spaceM);
 
     @include medium {
-        background-position: left 25%, right 73%;
+        background-position: left 21%, right 80%;
         background-size:40%;
     }
 
     @include small {
         background-position: left 13%, right 80%;
-        background-size:60%;
+        background-size:70%;
     }
 }
