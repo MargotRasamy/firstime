@@ -6,17 +6,19 @@ A school project made by two students from EEMI ❤️
 Clone the project and enter in the cloned directory :
 
 * Install the dependencies
+
 '''console
 npm install
 '''
 
 * Check our styleguide
-and
+
 '''console
 npm run fracal
 '''
 
 * Check our website
+
 '''console
 npm run dev
 '''
