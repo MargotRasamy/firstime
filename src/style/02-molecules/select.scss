@@ -40,6 +40,8 @@
 .selectbox--active .option-container {
   max-height: 240px;
   opacity: 1;
+  position: absolute;
+  z-index:2;
 }
 
 .selectbox__displayWord,
