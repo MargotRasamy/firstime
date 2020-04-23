@@ -7,20 +7,20 @@ Clone the project and enter in the cloned directory :
 
 * Install the dependencies
 
-'''console
+```console
 npm install
-'''
+```
 
 * Check our styleguide
 
-'''console
+```console
 npm run fracal
-'''
+```
 
 * Check our website
 
-'''console
+```console
 npm run dev
-'''
+```
 
 © Margot RASAMY & Sophie SONG - 2020
