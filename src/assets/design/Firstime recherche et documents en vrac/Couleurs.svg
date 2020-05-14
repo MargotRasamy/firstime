@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2550" viewBox="0 0 1920 2550">
+  <defs>
+    <clipPath id="clip-Couleurs">
+      <rect width="1920" height="2550"/>
+    </clipPath>
+  </defs>
+  <g id="Couleurs" clip-path="url(#clip-Couleurs)">
+    <rect width="1920" height="2550" fill="#fff"/>
+    <text id="Couleurs_" data-name="Couleurs
+" transform="translate(140 74)" fill="#2d3436" font-size="48" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="44">Couleurs</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="1640" transform="translate(140 1190)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="1640" transform="translate(140 178)" fill="none" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="280" height="280" transform="translate(140 312)" fill="#d63031"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="280" height="280" transform="translate(472 312)" fill="#e17055"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="280" height="280" transform="translate(804 312)" fill="#fdcb6e"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="280" height="280" transform="translate(140 680)" fill="#ff7675"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="280" height="280" transform="translate(472 680)" fill="#fab1a0"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="280" height="280" transform="translate(804 680)" fill="#ffeaa7"/>
+    <text id="_D63031" data-name="#D63031" transform="translate(140 264)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#D63031</tspan></text>
+    <text id="_E17055" data-name="#E17055" transform="translate(474 264)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#E17055</tspan></text>
+    <text id="_FDCB6E" data-name="#FDCB6E" transform="translate(814 264)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#FDCB6E</tspan></text>
+    <text id="_FF7675" data-name="#FF7675" transform="translate(140 632)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#FF7675</tspan></text>
+    <text id="_FAB1A0" data-name="#FAB1A0" transform="translate(474 632)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#FAB1A0</tspan></text>
+    <text id="_FFEAA7" data-name="#FFEAA7" transform="translate(814 632)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#FFEAA7</tspan></text>
+    <text id="Signification_des_couleurs" data-name="Signification des couleurs" transform="translate(1212 632)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Signification des couleurs</tspan></text>
+    <text id="Couleurs_principales_" data-name="Couleurs principales
+" transform="translate(1212 264)" fill="#2d3436" font-size="60" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="55">Couleurs principales</tspan></text>
+    <text id="Rouge" transform="translate(1262 684)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Rouge</tspan></text>
+    <text id="Choix_des_couleurs" data-name="Choix des couleurs" transform="translate(1212 368)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Choix des couleurs</tspan></text>
+    <text id="Les_tons_chauds_Rouge_orange_rose_jaune_émettent_une_atmosphère_chaleureuse_qui_inspire_la_confiance_afin_d_accueillir_et_rassurer_au_mieux_les_visiteurs_et_utilisateurs." data-name="Les tons chauds (Rouge, orange, rose, jaune) émettent une atmosphère chaleureuse qui inspire la confiance afin d&apos;accueillir et rassurer au mieux les visiteurs et utilisateurs." transform="translate(1262 418)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Les tons chauds </tspan><tspan y="30" font-family="GillSansStd, Gill Sans Std" font-weight="400">(Rouge, orange, rose, </tspan><tspan x="0" y="68" font-family="GillSansStd, Gill Sans Std" font-weight="400">jaune) émettent une atmosphère </tspan><tspan x="0" y="106" font-family="GillSansStd, Gill Sans Std" font-weight="400">chaleureuse qui inspire la confiance afin </tspan><tspan x="0" y="144" font-family="GillSansStd, Gill Sans Std" font-weight="400">d&apos;accueillir et rassurer au mieux les </tspan><tspan x="0" y="182" font-family="GillSansStd, Gill Sans Std" font-weight="400">visiteurs et utilisateurs.</tspan></text>
+    <text id="Amour_force_énergie" data-name="Amour, force, énergie" transform="translate(1317 735)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Amour, force, énergie</tspan></text>
+    <text id="Rose" transform="translate(1262 796)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Rose</tspan></text>
+    <text id="Respect_douceur_calme" data-name="Respect, douceur, calme" transform="translate(1317 847)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Respect, douceur, calme</tspan></text>
+    <text id="Orange" transform="translate(1262 908)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Orange</tspan></text>
+    <text id="Confiance_jeunesse_émotion" data-name="Confiance, jeunesse, émotion" transform="translate(1317 959)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Confiance, jeunesse, émotion</tspan></text>
+    <text id="Jaune" transform="translate(1262 1020)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Jaune</tspan></text>
+    <text id="Curiosité_enthousiasme_joie_jeunesse" data-name="Curiosité, enthousiasme, joie, jeunesse" transform="translate(1317 1071)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Curiosité, enthousiasme, joie, </tspan><tspan x="0" y="67">jeunesse</tspan></text>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="234" height="240" transform="translate(141 1324)" fill="#2d3436"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="232.8" height="240" transform="translate(445 1324.423)" fill="#636e72"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="234" height="240" transform="translate(140 1656)" fill="#b2bec3"/>
+    <text id="_2D3436" data-name="#2D3436" transform="translate(140 1276)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#2D3436</tspan></text>
+    <text id="_636E72" data-name="#636E72" transform="translate(444 1276)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#636E72</tspan></text>
+    <text id="_B2BEC3" data-name="#B2BEC3" transform="translate(141 1608)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#B2BEC3</tspan></text>
+    <text id="_DFE6E9" data-name="#DFE6E9" transform="translate(444 1608)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#DFE6E9</tspan></text>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="234" height="240" transform="translate(444 1656)" fill="#dfe6e9"/>
+    <text id="Nuances_de_gris" data-name="Nuances de gris" transform="translate(1212 1380)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Nuances de gris</tspan></text>
+    <text id="Couleurs_secondaires_" data-name="Couleurs secondaires
+" transform="translate(1212 1276)" fill="#2d3436" font-size="60" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="55">Couleurs secondaires</tspan></text>
+    <text id="Choix_des_couleurs-2" data-name="Choix des couleurs" transform="translate(1212 1940)" fill="#141414" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Choix des couleurs</tspan></text>
+    <text id="Palette_de_couleurs_variées_vibrantes_et_douces_:_la_variété_des_couleurs_donne_un_rythme_mais_la_douceur_des_tons_apporte_un_rythme_progressif." data-name="Palette de couleurs variées, vibrantes et douces : 
+la variété des couleurs donne un rythme mais la douceur des tons apporte un rythme progressif." transform="translate(1262 1990)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Palette de couleurs variées, </tspan><tspan x="0" y="69">vibrantes et douces </tspan><tspan y="69" font-family="GillSansStd, Gill Sans Std" font-weight="400">: </tspan><tspan font-family="GillSansStd, Gill Sans Std" font-weight="400"><tspan x="0" y="107">la variété des couleurs donne un </tspan><tspan x="0" y="145">rythme mais la douceur des tons </tspan><tspan x="0" y="183">apporte un rythme progressif.</tspan></tspan></text>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="170" height="170" transform="translate(141 1988)" fill="#e84393"/>
+    <text id="_E84393" data-name="#E84393" transform="translate(140 1940)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#E84393</tspan></text>
+    <text id="_FD79A8" data-name="#FD79A8" transform="translate(141 2198)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#FD79A8</tspan></text>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="170" height="170" transform="translate(359 1988)" fill="#6c5ce7"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="170" height="170" transform="translate(577 1988)" fill="#0984e3"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="170" height="170" transform="translate(795 1988)" fill="#00cec9"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="170" height="170" transform="translate(1013 1988)" fill="#00b894"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="170" height="170" transform="translate(141 2244)" fill="#fd79a8"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="170" height="170" transform="translate(359 2244)" fill="#a29bfe"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="170" height="170" transform="translate(577 2244)" fill="#74b9ff"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="170" height="170" transform="translate(795 2244)" fill="#81ecec"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="170" height="170" transform="translate(1013 2244)" fill="#55efc4"/>
+    <text id="_6C5CE7" data-name="#6C5CE7" transform="translate(358 1940)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#6C5CE7</tspan></text>
+    <text id="_A29BFE" data-name="#A29BFE" transform="translate(359 2198)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#A29BFE</tspan></text>
+    <text id="_0984E3" data-name="#0984E3" transform="translate(576 1940)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#0984E3</tspan></text>
+    <text id="_74B9FF" data-name="#74B9FF" transform="translate(577 2198)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#74B9FF</tspan></text>
+    <text id="_00CEC9" data-name="#00CEC9" transform="translate(794 1940)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#00CEC9</tspan></text>
+    <text id="_81ECEC" data-name="#81ECEC" transform="translate(795 2198)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#81ECEC</tspan></text>
+    <text id="_00B894" data-name="#00B894" transform="translate(1012 1940)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#00B894</tspan></text>
+    <text id="_55EFC4" data-name="#55EFC4" transform="translate(1013 2198)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">#55EFC4</tspan></text>
+    <text id="Des_nuances_de_gris_à_faible_contraste." data-name="Des nuances de gris à faible contraste." transform="translate(1262 1432)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Des nuances de gris à faible contraste.</tspan></text>
+  </g>
+</svg>

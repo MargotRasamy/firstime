@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2550" viewBox="0 0 1920 2550">
+  <defs>
+    <filter id="Rectangle_27" x="117.5" y="286.5" width="1261" height="728" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_28" x="1224.5" y="1179.5" width="578" height="1199" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_29" x="102.5" y="272.5" width="1291" height="759" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_31" x="1209.5" y="1166.5" width="608" height="1229" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Grids">
+      <rect width="1920" height="2550"/>
+    </clipPath>
+  </defs>
+  <g id="Grids" clip-path="url(#clip-Grids)">
+    <rect width="1920" height="2550" fill="#fff"/>
+    <text id="Grilles_" data-name="Grilles
+" transform="translate(140 74)" fill="#2d3436" font-size="48" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="44">Grilles</tspan></text>
+    <line id="Line_2" data-name="Line 2" x2="1640" transform="translate(140 178)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 -176)">
+      <g transform="matrix(1, 0, 0, 1, 0, 176)" filter="url(#Rectangle_27)">
+        <rect id="Rectangle_27-2" data-name="Rectangle 27" width="1216" height="683" transform="translate(140 305)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(-108.837 -235.616)">
+      <g transform="matrix(1, 0, 0, 1, 108.84, 235.62)" filter="url(#Rectangle_28)">
+        <rect id="Rectangle_28-2" data-name="Rectangle 28" width="533" height="1154" transform="translate(1247 1198)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Grille_desktop_" data-name="Grille desktop
+
+" transform="translate(1382 208)" fill="#2d3436" font-size="60" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="55">Grille desktop</tspan></text>
+    <text id="Nombre_de_grilles" data-name="Nombre de grilles" transform="translate(1433 368)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Nombre de grilles</tspan></text>
+    <text id="_12" data-name="12" transform="translate(1483 418)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">12</tspan></text>
+    <text id="Largeur_des_gouttières" data-name="Largeur des gouttières" transform="translate(1433 471)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Largeur des gouttières</tspan></text>
+    <text id="_16px" data-name="16px" transform="translate(1483 521)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">16px</tspan></text>
+    <text id="Largeur_des_marges" data-name="Largeur des marges" transform="translate(1433 574)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Largeur des marges</tspan></text>
+    <text id="_85px" data-name="85px" transform="translate(1483 624)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">85px</tspan></text>
+    <text id="Grille_mobile_" data-name="Grille mobile
+
+" transform="translate(140 1198)" fill="#2d3436" font-size="60" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="55">Grille mobile</tspan></text>
+    <text id="Nombre_de_grilles-2" data-name="Nombre de grilles" transform="translate(191 1358)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Nombre de grilles</tspan></text>
+    <text id="_4" data-name="4" transform="translate(241 1408)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">4</tspan></text>
+    <text id="Largeur_des_gouttières-2" data-name="Largeur des gouttières" transform="translate(191 1461)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Largeur des gouttières</tspan></text>
+    <text id="_10px" data-name="10px" transform="translate(241 1511)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">10px</tspan></text>
+    <text id="Largeur_des_marges-2" data-name="Largeur des marges" transform="translate(191 1564)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30">Largeur des marges</tspan></text>
+    <text id="_16px-2" data-name="16px" transform="translate(241 1614)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">16px</tspan></text>
+    <g id="Group_5" data-name="Group 5" transform="translate(140 304)">
+      <g transform="matrix(1, 0, 0, 1, -140, -304)" filter="url(#Rectangle_29)">
+        <rect id="Rectangle_29-2" data-name="Rectangle 29" width="1216" height="684" transform="translate(140 304)" fill="#fff"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(50.667)">
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="83" height="684" transform="translate(0.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_18" data-name="Rectangle 18" width="84" height="684" transform="translate(93.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="84" height="684" transform="translate(187.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_20" data-name="Rectangle 20" width="83" height="684" transform="translate(281.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_21" data-name="Rectangle 21" width="83" height="684" transform="translate(375.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_22" data-name="Rectangle 22" width="84" height="684" transform="translate(468.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_23" data-name="Rectangle 23" width="84" height="684" transform="translate(562.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_24" data-name="Rectangle 24" width="83" height="684" transform="translate(656.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_25" data-name="Rectangle 25" width="83" height="684" transform="translate(750.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_26" data-name="Rectangle 26" width="84" height="684" transform="translate(843.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_27-3" data-name="Rectangle 27" width="84" height="684" transform="translate(937.333)" fill="#ffdcdc"/>
+        <rect id="Rectangle_28-3" data-name="Rectangle 28" width="83" height="684" transform="translate(1031.333)" fill="#ffdcdc"/>
+      </g>
+      <line id="Line_10" data-name="Line 10" x2="51" transform="translate(0 284)" fill="none" stroke="#fc9a9a" stroke-width="3"/>
+      <text id="_80px" data-name="80px" transform="translate(4 275)" fill="#fc9a9a" font-size="13" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">80px</tspan></text>
+      <line id="Line_11" data-name="Line 11" x2="10" transform="translate(134 208)" fill="none" stroke="#fc9a9a" stroke-width="3"/>
+      <text id="_16px-3" data-name="16px" transform="translate(129 199)" fill="#fc9a9a" font-size="13" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">16px</tspan></text>
+      <text id="Largeur_marge" data-name="Largeur marge" transform="translate(4 258)" fill="#fc9a9a" font-size="13" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">Largeur</tspan></text>
+      <text id="Largeur_gouttière" data-name="Largeur gouttière" transform="translate(92.561 181.733)" fill="#fc9a9a" font-size="13" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">Largeur gouttière</tspan></text>
+      <text id="_1" data-name="1" transform="translate(92 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">1</tspan></text>
+      <text id="_2" data-name="2" transform="translate(186 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">2</tspan></text>
+      <text id="_3" data-name="3" transform="translate(278 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">3</tspan></text>
+      <text id="_4-2" data-name="4" transform="translate(372 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">4</tspan></text>
+      <text id="_5" data-name="5" transform="translate(464 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">5</tspan></text>
+      <text id="_6" data-name="6" transform="translate(557 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">6</tspan></text>
+      <text id="_7" data-name="7" transform="translate(650 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">7</tspan></text>
+      <text id="_8" data-name="8" transform="translate(743 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">8</tspan></text>
+      <text id="_9" data-name="9" transform="translate(836 51)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std" opacity="0.9"><tspan x="0" y="0">9</tspan></text>
+      <text id="_10" data-name="10" transform="translate(923.717 51.2)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">10</tspan></text>
+      <text id="_11" data-name="11" transform="translate(1017.45 51.2)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">11</tspan></text>
+      <text id="_12-2" data-name="12" transform="translate(1109.283 51.2)" fill="#fc9a9a" font-size="19" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">12</tspan></text>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(1247 1198)">
+      <g transform="matrix(1, 0, 0, 1, -1247, -1198)" filter="url(#Rectangle_31)">
+        <rect id="Rectangle_31-2" data-name="Rectangle 31" width="533" height="1154" transform="translate(1247 1198)" fill="#fff"/>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(21.32)">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="114" height="1154" transform="translate(-0.32)" fill="#ffdcdc"/>
+        <rect id="Rectangle_29-3" data-name="Rectangle 29" width="114" height="1154" transform="translate(124.68)" fill="#ffdcdc"/>
+        <rect id="Rectangle_30" data-name="Rectangle 30" width="114" height="1154" transform="translate(249.68)" fill="#ffdcdc"/>
+        <rect id="Rectangle_31-3" data-name="Rectangle 31" width="113" height="1154" transform="translate(375.68)" fill="#ffdcdc"/>
+      </g>
+      <line id="Line_11-2" data-name="Line 11" x2="11" transform="translate(135 466)" fill="none" stroke="#fc9a9a" stroke-width="3"/>
+      <text id="_8px" data-name="8px" transform="translate(119.747 446.715)" fill="#fc9a9a" font-size="29" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">10px</tspan></text>
+      <line id="Line_10-2" data-name="Line 10" x2="22" transform="translate(-1 638)" fill="none" stroke="#fc9a9a" stroke-width="3"/>
+      <text id="_16px-4" data-name="16px" transform="translate(7 617)" fill="#fc9a9a" font-size="29" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">16px</tspan></text>
+      <text id="Largeur_marge-2" data-name="Largeur marge" transform="translate(10 579)" fill="#fc9a9a" font-size="29" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">Largeur</tspan></text>
+      <text id="Largeur_gouttière-2" data-name="Largeur gouttière" transform="translate(30 407)" fill="#fc9a9a" font-size="29" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">Largeur gouttière</tspan></text>
+      <text id="_1-2" data-name="1" transform="translate(65 115)" fill="#fc9a9a" font-size="42" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">1</tspan></text>
+      <text id="_2-2" data-name="2" transform="translate(193 115)" fill="#fc9a9a" font-size="42" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">2</tspan></text>
+      <text id="_3-2" data-name="3" transform="translate(320 115)" fill="#fc9a9a" font-size="42" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">3</tspan></text>
+      <text id="_4-3" data-name="4" transform="translate(448 115)" fill="#fc9a9a" font-size="42" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="0">4</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="3350" viewBox="0 0 1920 3350">
+  <defs>
+    <clipPath id="clip-Typography_1">
+      <rect width="1920" height="3350"/>
+    </clipPath>
+  </defs>
+  <g id="Typography_1" data-name="Typography – 1" clip-path="url(#clip-Typography_1)">
+    <rect width="1920" height="3350" fill="#fff"/>
+    <text id="Typography_" data-name="Typography
+" transform="translate(140 74)" fill="#141414" font-size="48" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="44">Typography</tspan></text>
+    <text id="H1_Heading_" data-name="H1 Heading
+" transform="translate(278 2306)" fill="#2d3436" font-size="48" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="44">H1 Heading</tspan></text>
+    <text id="H2_Headline_" data-name="H2 Headline
+" transform="translate(278 2406)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">H2 Headline</tspan></text>
+    <text id="_48_px_36_pt_" data-name="48 px / 36 pt
+" transform="translate(692 2306)" fill="#2d3436" font-size="48" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="44">48 px / 36 pt</tspan></text>
+    <text id="_36_px_27_pt_" data-name="36 px / 27 pt
+" transform="translate(692 2406)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">36 px / 27 pt</tspan></text>
+    <text id="Mobile" transform="translate(692 2174)" fill="#2d3436" font-size="56" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="51">Mobile</tspan></text>
+    <text id="Font_size" data-name="Font size" transform="translate(278 2174)" fill="#2d3436" font-size="56" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="51">Font size</tspan></text>
+    <text id="Aa" transform="translate(278 982)" fill="#323232" font-size="192" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="175">Aa</tspan></text>
+    <text id="Gill_Sans_" data-name="Gill Sans
+" transform="translate(278 1211)" fill="#323232" font-size="48" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="44">Gill Sans</tspan></text>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(199 840)" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="891" height="536" stroke="none"/>
+      <rect x="0.5" y="0.5" width="890" height="535" fill="none"/>
+    </g>
+    <text id="Aa_" data-name="Aa
+" transform="translate(676 958)" fill="#323232" font-size="48" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="45">Aa</tspan></text>
+    <text id="Aa_2" data-name="Aa
+" transform="translate(676 1077)" fill="#323232" font-size="48" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="44">Aa</tspan></text>
+    <text id="Aa_3" data-name="Aa
+" transform="translate(676 1196)" fill="#323232" font-size="48" font-family="GillSansStd-Light, Gill Sans Std" font-weight="300"><tspan x="0" y="43">Aa</tspan></text>
+    <text id="Aa-2" data-name="Aa" transform="translate(278 1608)" fill="#323232" font-size="192" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="174">Aa</tspan></text>
+    <text id="ITC_Slimbach_" data-name="ITC Slimbach
+" transform="translate(278 1837)" fill="#323232" font-size="48" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="43">ITC Slimbach</tspan></text>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(199 1466)" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="891" height="536" stroke="none"/>
+      <rect x="0.5" y="0.5" width="890" height="535" fill="none"/>
+    </g>
+    <text id="Aa_4" data-name="Aa
+" transform="translate(676 1589)" fill="#323232" font-size="48" font-family="SlimbachStd-Bold, ITC Slimbach Std" font-weight="700"><tspan x="0" y="45">Aa</tspan></text>
+    <text id="Aa_5" data-name="Aa
+" transform="translate(676 1708)" fill="#323232" font-size="48" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="43">Aa</tspan></text>
+    <text id="Aa_6" data-name="Aa
+" transform="translate(676 1829)" fill="#323232" font-size="48" font-family="SlimbachStd-BookItalic, ITC Slimbach Std" font-style="italic"><tspan x="0" y="43">Aa</tspan></text>
+    <text id="Bold_" data-name="Bold
+" transform="translate(784 972)" fill="#323232" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Bold</tspan></text>
+    <text id="Regular_" data-name="Regular
+" transform="translate(784 1091)" fill="#323232" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Regular</tspan></text>
+    <text id="Light_" data-name="Light
+" transform="translate(784 1210)" fill="#323232" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Light</tspan></text>
+    <text id="Bold_2" data-name="Bold
+" transform="translate(784 1603)" fill="#323232" font-size="32" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="29">Bold</tspan></text>
+    <text id="Book_" data-name="Book
+" transform="translate(784 1720)" fill="#323232" font-size="32" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="29">Book</tspan></text>
+    <text id="Book_Italic_" data-name="Book Italic
+" transform="translate(784 1841)" fill="#323232" font-size="32" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="29">Book Italic</tspan></text>
+    <text id="H3_Headline_" data-name="H3 Headline
+" transform="translate(278 2507)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">H3 Headline</tspan></text>
+    <text id="H4_Headline_" data-name="H4 Headline
+" transform="translate(278 2607)" fill="#2d3436" font-size="28" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="26">H4 Headline</tspan><tspan x="0" y="60"></tspan></text>
+    <text id="H5_Headline_" data-name="H5 Headline
+" transform="translate(278 2708)" fill="#2d3436" font-size="24" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="22">H5 Headline</tspan><tspan x="0" y="51"></tspan></text>
+    <text id="H6_Headline_" data-name="H6 Headline
+" transform="translate(278 2808)" fill="#2d3436" font-size="21" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="19">H6 Headline</tspan><tspan x="0" y="44"></tspan></text>
+    <text id="Body_text_" data-name="Body text
+" transform="translate(278 2909)" fill="#2d3436" font-size="18" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="16">Body text</tspan></text>
+    <text id="Subtitle_" data-name="Subtitle
+" transform="translate(278 3010)" fill="#2d3436" font-size="16" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="15">Subtitle</tspan></text>
+    <text id="_30_px_22.5_pt_" data-name="30 px / 22.5 pt
+" transform="translate(692 2507)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">30 px / 22.5 pt</tspan></text>
+    <text id="_28_px_21_pt_" data-name="28 px / 21 pt
+" transform="translate(692 2607)" fill="#2d3436" font-size="28" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="26">28 px / 21 pt</tspan><tspan x="0" y="60"></tspan></text>
+    <text id="_24_px_18_pt_" data-name="24 px / 18 pt
+" transform="translate(692 2708)" fill="#2d3436" font-size="24" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="22">24 px / 18 pt</tspan><tspan x="0" y="51"></tspan></text>
+    <text id="_21_px_15.75_pt_" data-name="21 px / 15.75 pt
+" transform="translate(692 2808)" fill="#2d3436" font-size="21" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="19">21 px / 15.75 pt</tspan><tspan x="0" y="44"></tspan></text>
+    <text id="_18_px_13.5_pt_" data-name="18 px / 13.5 pt
+" transform="translate(692 2909)" fill="#2d3436" font-size="18" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="16">18 px / 13.5 pt</tspan><tspan x="0" y="38"></tspan></text>
+    <text id="_16_px_12_pt_" data-name="16 px / 12 pt
+" transform="translate(692 3010)" fill="#2d3436" font-size="16" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="15">16 px / 12 pt</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="1640" transform="translate(140 2092)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="1640" transform="translate(140 178)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_1" data-name="Path 1" d="M0,0H138" transform="translate(278 1188)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_2" data-name="Path 2" d="M0,0H138" transform="translate(278 1814)" fill="none" stroke="#707070" stroke-width="3"/>
+    <text id="Main_font_" data-name="Main font  " transform="translate(1212 940)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30" xml:space="preserve">Main font  </tspan></text>
+    <text id="Alternative_font" data-name="Alternative font" transform="translate(1212 1566)" fill="#2d3436" font-size="32" font-family="SlimbachStd-Bold, ITC Slimbach Std" font-weight="700"><tspan x="0" y="30">Alternative font</tspan></text>
+    <text id="Body_content_buttons_subtitles_links" data-name="Body content, buttons, subtitles, links" transform="translate(1262 990)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Body content, buttons, subtitles, links</tspan></text>
+    <text id="Articles_interviews_and_blog_content_" data-name="Articles, interviews and blog content
+" transform="translate(1262 1616)" fill="#2d3436" font-size="32" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="29">Articles, interviews and blog content</tspan></text>
+    <text id="Gill_Sans_2" data-name="Gill Sans
+" transform="translate(1212 844)" fill="#2d3436" font-size="60" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="55">Gill Sans</tspan></text>
+    <text id="ITC_Slimbach_2" data-name="ITC Slimbach
+" transform="translate(1212 1470)" fill="#2d3436" font-size="60" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="54">ITC Slimbach</tspan></text>
+    <text id="Typographic_choice_" data-name="Typographic choice  " transform="translate(1212 1057)" fill="#2d3436" font-size="32" font-family="GillSansStd-Bold, Gill Sans Std" font-weight="700"><tspan x="0" y="30" xml:space="preserve">Typographic choice  </tspan></text>
+    <text id="Gill_Sans_is_a_sans-serif_lineal_typeface_made_by_Eric_Gill_in_1928._We_chose_this_typeface_for_the_main_content_for_its_simplicity_and_readability._It_s_also_considered_as_a_lineal_with_humanistic_tendancies_which_suits_our_website_s_essence." data-name="Gill Sans is a sans-serif lineal typeface made by Eric Gill in 1928. We chose this typeface for the main content for its simplicity and readability. It&apos;s also considered as a lineal with humanistic tendancies which suits our website&apos;s essence." transform="translate(1262 1107)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">Gill Sans is a sans-serif lineal typeface </tspan><tspan x="0" y="67">made by Eric Gill in 1928. We chose </tspan><tspan x="0" y="105">this typeface for the main content for </tspan><tspan x="0" y="143">its simplicity and readability. It&apos;s also </tspan><tspan x="0" y="181">considered as a lineal with humanistic </tspan><tspan x="0" y="219">tendancies which suits our website&apos;s </tspan><tspan x="0" y="257">essence.</tspan></text>
+    <text id="Typographic_choice" data-name="Typographic choice" transform="translate(1212 1680)" fill="#2d3436" font-size="32" font-family="SlimbachStd-Bold, ITC Slimbach Std" font-weight="700"><tspan x="0" y="30">Typographic choice</tspan></text>
+    <text id="ITC_Slimach_is_a_serif_typeface_made_by_Robert_Slimbach_in_1987._We_chose_this_typeface_for_articles_content_because_it_is_a_progressive_and_modern_humanist_combining_clean_serif_shapes_with_the_warmth_of_calligraphic_forms._" data-name="ITC Slimach is a serif typeface made by Robert Slimbach in 1987. We chose this typeface for articles content because it is a progressive and modern humanist combining clean serif shapes with the warmth of calligraphic forms.
+" transform="translate(1262 1730)" fill="#2d3436" font-size="32" font-family="SlimbachStd-Book, ITC Slimbach Std"><tspan x="0" y="29">ITC Slimach is a serif typeface made </tspan><tspan x="0" y="67">by Robert Slimbach in 1987. We </tspan><tspan x="0" y="105">chose this typeface for articles </tspan><tspan x="0" y="143">content because it is a progressive </tspan><tspan x="0" y="181">and modern humanist combining </tspan><tspan x="0" y="219">clean serif shapes with the warmth </tspan><tspan x="0" y="257">of calligraphic forms.</tspan></text>
+    <text id="_96_px_72_pt_" data-name="96 px / 72 pt
+" transform="translate(1106 2306)" fill="#2d3436" font-size="48" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="44">96 px / 72 pt</tspan></text>
+    <text id="_48_px_36_pt" data-name="48 px / 36 pt" transform="translate(1106 2406)" fill="#2d3436" font-size="36" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="33">48 px / 36 pt</tspan></text>
+    <text id="Desktop" transform="translate(1106 2174)" fill="#2d3436" font-size="56" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="51">Desktop</tspan></text>
+    <text id="_36_px_27_pt" data-name="36 px / 27 pt" transform="translate(1106 2507)" fill="#2d3436" font-size="32" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="29">36 px / 27 pt</tspan></text>
+    <text id="_24_px_18_pt_2" data-name="24 px / 18 pt
+" transform="translate(1106 2607)" fill="#2d3436" font-size="28" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="26">24 px / 18 pt</tspan><tspan x="0" y="60"></tspan></text>
+    <text id="_21_px_15.75_pt_2" data-name="21 px / 15.75 pt
+" transform="translate(1106 2708)" fill="#2d3436" font-size="24" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="22">21 px / 15.75 pt</tspan><tspan x="0" y="51"></tspan></text>
+    <text id="_18_px_13.5_pt_2" data-name="18 px / 13.5 pt
+" transform="translate(1106 2808)" fill="#2d3436" font-size="21" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="19">18 px / 13.5 pt</tspan><tspan x="0" y="44"></tspan></text>
+    <text id="_16_px_12_pt_2" data-name="16 px / 12 pt
+" transform="translate(1106 2909)" fill="#2d3436" font-size="18" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="16">16 px / 12 pt</tspan><tspan x="0" y="38"></tspan></text>
+    <text id="_14_px_10.5_pt" data-name="14 px / 10.5 pt" transform="translate(1106 3010)" fill="#2d3436" font-size="16" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="15">14 px / 10.5 pt</tspan></text>
+    <text id="Aa-3" data-name="Aa" transform="translate(278 378)" fill="#323232" font-size="192" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="177">Aa</tspan></text>
+    <text id="Dancing_Script" data-name="Dancing Script" transform="translate(278 646)" fill="#323232" font-size="48" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="44">Dancing Script</tspan></text>
+    <g id="Rectangle_32" data-name="Rectangle 32" transform="translate(199 275)" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="891" height="536" stroke="none"/>
+      <rect x="0.5" y="0.5" width="890" height="535" fill="none"/>
+    </g>
+    <text id="Aa-4" data-name="Aa" transform="translate(676 512)" fill="#323232" font-size="48" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="44">Aa</tspan></text>
+    <text id="Bold" transform="translate(784 526)" fill="#323232" font-size="32" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="29">Bold</tspan></text>
+    <path id="Path_3" data-name="Path 3" d="M0,0H138" transform="translate(278 623)" fill="none" stroke="#707070" stroke-width="3"/>
+    <text id="Title_font" data-name="Title font" transform="translate(1212 375)" fill="#2d3436" font-size="32" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="29">Title font</tspan></text>
+    <text id="Heading_One_H1_" data-name="Heading One (H1)" transform="translate(1262 425)" fill="#2d3436" font-size="32" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="29">Heading One (H1)</tspan></text>
+    <text id="Dancing_Script-2" data-name="Dancing Script" transform="translate(1212 279)" fill="#2d3436" font-size="60" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="55">Dancing Script</tspan></text>
+    <text id="Typographic_choice_2" data-name="Typographic choice  " transform="translate(1212 492)" fill="#2d3436" font-size="32" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="29" xml:space="preserve">Typographic choice  </tspan></text>
+    <text id="A_handwritten-style_typeface_with_popular_50s_style._It_s_a_lively_and_simple_script._We_chose_this_typeface_for_its_rounded_edges_gives_it_a_soft_and_young_and_sweet_atmosphere." data-name="A handwritten-style typeface with popular 50s style. It&apos;s a lively and simple script. We chose this typeface for its rounded edges gives it a soft and young, and sweet atmosphere." transform="translate(1262 546)" fill="#2d3436" font-size="32" font-family="DancingScript-Bold, Dancing Script" font-weight="700"><tspan x="0" y="29">A handwritten-style typeface with popular </tspan><tspan x="0" y="67">50s style. It&apos;s a lively and simple script. </tspan><tspan x="0" y="105">We chose this typeface for its rounded edges </tspan><tspan x="0" y="143">gives it a soft and young, and sweet </tspan><tspan x="0" y="181">atmosphere.</tspan></text>
+    <text id="Small_informations_" data-name="Small informations
+" transform="translate(278 3127)" fill="#2d3436" font-size="14" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="13">Small informations</tspan><tspan x="0" y="31"></tspan></text>
+    <text id="_12_px_9_pt" data-name="12 px / 9 pt" transform="translate(1106 3127)" fill="#2d3436" font-size="16" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="15">12 px / 9 pt</tspan></text>
+    <text id="_14_px_10.5_pt-2" data-name="14 px / 10.5 pt" transform="translate(692 3127)" fill="#2d3436" font-size="16" font-family="GillSansStd, Gill Sans Std"><tspan x="0" y="15">14 px / 10.5 pt</tspan></text>
+  </g>
+</svg>
