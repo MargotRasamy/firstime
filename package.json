@@ -16,8 +16,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@frctl/fractal": "^1.2.1",
-    "parcel": "^1.12.4",
+    "@frctl/fractal": "^1.5.15",
+    "parcel": "^2.16.1",
     "sass": "^1.26.3"
   },
   "bugs": {
